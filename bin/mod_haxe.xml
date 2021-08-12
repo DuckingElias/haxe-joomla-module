@@ -5,10 +5,9 @@
     <creationDate>2021-08-12</creationDate>
     <copyright>Copyright (C)</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-    <authorEmail>asika@asikart.com</authorEmail>
-    <authorUrl>http://asikart.com</authorUrl>
+    <authorEmail>eliaskleppinger@web.de</authorEmail>
     <version>1.0</version>
-    <description>MOD_EXAMPLE_INSTALL_DESC</description>
+    <description>Example Joomla 3 Module with Haxe</description>
     
     <files>
         <filename module="mod_haxe">mod_haxe.php</filename>
