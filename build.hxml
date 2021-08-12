@@ -1,0 +1,11 @@
+-cp src/
+-main src.Main
+-D php-front=mod_haxe.php
+-php bin/
+
+--next
+-cp src/views/
+-main src.views.DefaultView
+-D php-front=default.php
+-D php-lib=../lib
+-php bin/tmpl/
